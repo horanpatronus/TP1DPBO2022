@@ -32,11 +32,13 @@ _Saya Rahma Maulida 2003688 mengerjakan Latihan 3 dalam mata kuliah Desain Pemro
 ![image](https://user-images.githubusercontent.com/91965618/161108734-7b535807-dfc0-4670-83ed-81957b6ef78a.png)
 
 ***Sukses Update Record***
+
 Judul diubah yang semula "Percy Jackson and the Olympians: The Sea of Monster" menjadi "The Sea of Monsters"
 
 ![image](https://user-images.githubusercontent.com/91965618/161109154-a04158a9-eb92-4ac7-9eaf-07856ca06fc7.png)
 
 ***Sukses Delete Record***
+
 Record dengan judul "The Sea of Monsters" berhasil dihapus
 
 ![image](https://user-images.githubusercontent.com/91965618/161109264-0880685f-b7c6-4cf8-8499-c3e7c35bee8b.png)
